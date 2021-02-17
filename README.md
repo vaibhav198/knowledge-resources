@@ -1,2 +1,4 @@
 # knowledge-resources
-This repo contain good topics/tools/tech along with their reference.
+Topic | Link
+------------ | -------------
+Stratified K Fold Cross Validation | [URL](https://www.geeksforgeeks.org/stratified-k-fold-cross-validation/)
