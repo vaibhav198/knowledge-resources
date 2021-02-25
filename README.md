@@ -7,4 +7,5 @@ Complete Understanding of AUC, ROC in a very simple way | [URL](https://towardsd
 Complete Understanding of Confusion Matrix, Precision, Recall | [URL](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 Generate Crontab Syntax | [URL](https://crontab-generator.org/)
 Stratified K Fold Cross Validation | [URL](https://www.geeksforgeeks.org/stratified-k-fold-cross-validation/)
+Unsupervised Pre-training | [1.URL](https://medium.com/@Akhilesh_k_r/unsupervised-pre-training-deep-neural-nets-14abe467f0ef)  [2.URL](https://medium.com/intuitive-deep-learning/autoencoders-neural-networks-for-unsupervised-learning-83af5f092f0b#)
 
