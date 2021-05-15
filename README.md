@@ -11,3 +11,4 @@ Unsupervised Pre-training | [1.URL](https://medium.com/@Akhilesh_k_r/unsupervise
 Focal Loss | [URL](https://amaarora.github.io/2020/06/29/FocalLoss.html)
 Pytorch Tutorials | [URL](https://github.com/ritchieng/the-incredible-pytorch#Segmentation)
 Abhishek Thakur (Pytorch Videos) | [URL](https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A)
+Issue with softmax activation function | [URL](https://towardsdatascience.com/the-big-issue-with-softmax-cd6169fede8f)
