@@ -16,3 +16,4 @@ Facts about python | [URL](https://medium.com/pythoneers/10-facts-you-didnt-know
 Logging in python | [URL](https://medium.com/pythoneers/master-logging-in-python-73cd2ff4a7cb)
 Must Know Built-in function | [URL](https://medium.com/pythoneers/10-must-known-built-in-functions-in-python-2f196b9c0359)
 Tricks to speed up python code | [URL](https://levelup.gitconnected.com/10-python-tricks-for-speed-up-your-code-8c189d8c99b6)
+25 Pandas functions | [URL](https://towardsdatascience.com/25-pandas-functions-you-didnt-know-existed-p-guarantee-0-8-1a05dcaad5d0)
